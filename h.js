@@ -4,8 +4,8 @@ const fs = require('fs');
 // Конфигурация
 const API_URL = "https://api.newlxp.ru/graphql";
 const AUTH_DATA = {
-  email: "KostoevAB24@magas.ithub.ru",
-  password: "1XfxNFB!"
+  email: "Nic@magas.ithub.ru",
+  password: "Password!"
 };
 
 // 1. Функция авторизации
